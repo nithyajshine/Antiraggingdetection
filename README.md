@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+ 🎯Antiragging Detection System
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: NION
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Nora Unni - LBSITW
+- Member 2: Nithya J Shine - LBSITW
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[file:///C:/Users/NITHYA%20J%20Shine/Desktop/tinkerhack%204/index.html]
 
 ### Project Description
-[2-3 lines about what your project does]
+An antiragging detection system which reports anonymously
 
 ### The Problem statement
-[What problem are you solving?]
+Ragging is a serious threat,with large number of unreported cases happening 
 
-### The Solution
-[How are you solving it?]
+### The Solutio
+This website allow uses to report cases anonymously ,with real time monitoring system and tracking id/updates
 
 ---
 
@@ -31,10 +31,10 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: JavaScript, Python, html,flask,css
+- Frameworks used: flask
+- Libraries used: json
+- Tools used: VS Code, Git,gamini api
 
 **For Hardware:**
 - Main components: [List main components]
@@ -46,10 +46,10 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: anonymous reporting 
+- Feature 2: real time monitoring
+- Feature 3: early detection 
+- Feature 4: tracking ID
 
 ---
 
@@ -58,13 +58,9 @@ List the key features of your project:
 ### For Software:
 
 #### Installation
-```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-```
+pip install 
 
-#### Run
-```bash
-[Run commands - e.g., npm start, python app.py]
+npm start, python app.py
 ```
 
 ### For Hardware:
